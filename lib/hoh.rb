@@ -32,7 +32,6 @@ require 'pry'# Build a nested HoH of the classification of biological life on Ea
 
 def naming_system
   kingdom = {}
-  binding.pry
   #  Remember
   #  Kingdom
   #  Phylum
