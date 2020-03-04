@@ -31,10 +31,7 @@
 # }
 
 def naming_system
-  Remember = {label: "kingdom",
-    sub_category: {label: "Phylum", 
-    sub_category: {label: "Order"}}
-  }
+
   #  Remember
   #  Kingdom
   #  Phylum
