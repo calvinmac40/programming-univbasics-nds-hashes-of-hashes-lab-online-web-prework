@@ -31,7 +31,7 @@
 # }
 
 def naming_system
-  kingdom = Hash.new
+  kingdom = {}
   #  Remember
   #  Kingdom
   #  Phylum
